@@ -1,2 +1,6 @@
-# WebDev
-Hands-on practice for web fundamentals — HTML, CSS, and JavaScript. Each subfolder is a mini-project or concept demo (buttons, layouts, animations, DOM manipulation, etc.).
+# WebDev 
+
+Learning web development from scratch — HTML, CSS, and JavaScript.  
+This repo holds experiments, exercises, and mini-projects made during my learning journey.
+
+### 📘 Contents
